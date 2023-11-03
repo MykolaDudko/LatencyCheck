@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatencyCheck", "LatencyCheck\LatencyCheck.csproj", "{FBD21B82-4A5B-4C26-BCAB-4A2935BD2AFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{B3304540-D597-478C-9BB0-D4FDC7E7F9B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E3C52CB7-D79F-4B3C-965E-918791B9596C}"
+	ProjectSection(SolutionItems) = preProject
+		Latency.xml = Latency.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD21B82-4A5B-4C26-BCAB-4A2935BD2AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD21B82-4A5B-4C26-BCAB-4A2935BD2AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD21B82-4A5B-4C26-BCAB-4A2935BD2AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD21B82-4A5B-4C26-BCAB-4A2935BD2AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3304540-D597-478C-9BB0-D4FDC7E7F9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3304540-D597-478C-9BB0-D4FDC7E7F9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3304540-D597-478C-9BB0-D4FDC7E7F9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3304540-D597-478C-9BB0-D4FDC7E7F9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7506F704-FF4C-4A97-8B44-A0CC1E963ED5}
+	EndGlobalSection
+EndGlobal
