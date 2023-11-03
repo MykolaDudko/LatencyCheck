@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Test>
-  <TestA>5</TestA>
-  <TestAMode>Find</TestAMode>
-  <TestB>5</TestB>
-  <TestBMode>None</TestBMode>
-</Test>
